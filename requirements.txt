@@ -1,5 +1,6 @@
 torch>=2.0
 torchaudio
+torchvision
 diffusers
 transformers
 scipy
