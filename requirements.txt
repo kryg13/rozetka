@@ -11,6 +11,7 @@ matplotlib
 gradio
 # Flask для веб-сервера
 flask
+pandas
 
 # Selenium для парсингу Rozetka
 selenium
