@@ -1,0 +1,33 @@
+torch>=2.0
+torchaudio
+diffusers
+transformers
+scipy
+soundfile
+numpy
+Pillow
+librosa
+matplotlib
+gradio
+# Flask для веб-сервера
+flask
+
+# Selenium для парсингу Rozetka
+selenium
+webdriver-manager
+
+# Hugging Face Transformers і Tokenizers
+transformers
+datasets
+tokenizers
+
+# Тренування та обробка моделей
+torch
+accelerate
+
+# Браузерна залежність (щоб уникнути помилок на headless)
+beautifulsoup4
+
+# Інші утиліти
+tqdm
+
